@@ -1,0 +1,32 @@
+{
+  "name": "globe",
+  "version": "0.2.0",
+  "description": "For all those that feel that typing 'webgl-globe' is too much :P",
+  "author": "Makesites.org",
+  "contributors": [
+    { "name": "Makis Tracend", "email": "makis@makesit.es" }
+  ],
+  "homepage": "http://makesites.org/webgl-globe", 
+  "keywords": ["webgl", "google", "globe"], 
+  "main": "./index.js",
+  "engines": {
+    "node": ">0.8.x"
+  },
+  "dependencies": {
+    "webgl-globe": "*"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makesites/webgl-globe/"
+  },
+  "bugs": {
+    "url": "https://github.com/makesites/webgl-globe/issues"
+  }, 
+  "licenses": [
+    {
+      "type": "MIT License",
+      "url": "http://makesites.org/licenses/MIT"
+    }
+  ]
+
+}
