@@ -1,32 +1,31 @@
 {
   "name": "globe",
-  "version": "0.2.0",
-  "description": "For all those that feel that typing 'webgl-globe' is too much :P",
-  "author": "Makesites.org",
+  "version": "0.3.0",
+  "description": "Location-based resourcing of 3D map geometry",
+  "author": "makesites",
   "contributors": [
     { "name": "Makis Tracend", "email": "makis@makesit.es" }
   ],
-  "homepage": "http://makesites.org/webgl-globe", 
+  "homepage": "http://earthmaps.org/", 
   "keywords": ["webgl", "google", "globe"], 
   "main": "./index.js",
   "engines": {
-    "node": ">0.8.x"
-  },
-  "dependencies": {
-    "webgl-globe": "*"
+    "node": "0.8.x"
   }, 
   "repository": {
     "type": "git",
-    "url": "https://github.com/makesites/webgl-globe/"
+    "url": "https://github.com/makesites/globe/"
   },
   "bugs": {
-    "url": "https://github.com/makesites/webgl-globe/issues"
+    "url": "https://github.com/makesites/globe/issues"
   }, 
   "licenses": [
     {
       "type": "MIT License",
       "url": "http://makesites.org/licenses/MIT"
     }
-  ]
+  ],
+  "dependencies": {
+  }
 
 }
