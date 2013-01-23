@@ -1,1 +1,1 @@
-module.exports = require('webgl-globe');
+module.exports = require('./lib/globe');
