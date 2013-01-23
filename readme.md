@@ -9,6 +9,9 @@ This module is designed to calculate the right geographic area that needs to be 
 ## Options
 
 * **zoom** : 0-100, how close the target is to the geometry
-* **location** : the center of the area of interest
+* **location** : {lt,lng}, the center of the area of interest
+* **resolution** : 0-100, the quality of the mesh or image returned
+* **type** : ["mesh", "heightmap"], what type of media is required
+
 
 
